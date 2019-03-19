@@ -7,13 +7,13 @@
 
 **PlantUML源码如下：**
 
-@startuml
-|教务处|
--安排考试
--考试安排表
-|教师|
--出卷
-fork
+@startuml<br>
+|教务处|<br>
+-安排考试<br>
+-考试安排表<br>
+|教师|<br>
+-出卷<br>
+fork<br>
 :A、B试卷;
 fork again
 :打印审批表;
