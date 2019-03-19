@@ -111,7 +111,7 @@ stop
 
 **业务流程图如下：**
 
-![flow2](flow2.jpg)
+![flow2](https://github.com/lfd1109550635/is_analysis/blob/master/test1/%E5%AE%9E%E9%AA%8C1.2%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 
 **流程说明：**
 
