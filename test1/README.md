@@ -6,47 +6,50 @@
 ## 流程图1：考试及成绩管理流程
 
 **PlantUML源码如下：**
-'''
-@startuml<br>
-|教务处|<br>
--安排考试<br>
--考试安排表<br>
-|教师|<br>
--出卷<br>
-fork<br>
-:A、B试卷;<br>
-fork again<br>
-:打印审批表;<br>
-|系主任|<br>
--审批签字<br>
--打印审批表：<br>
-end fork<br>
-|教务处|<br>
--打印试卷<br>
--试卷<br>
-|学生|<br>
--参加考试<br>
--答卷<br>
-|教师|<br>
--阅出成绩<br>
-fork<br>
-:成绩单;<br>
-|教务处|<br>
- -[#blue]-><br>
--有不及格？<br>
--> 有;<br>
--安排补考<br>
-fork<br>
--补考安排表<br>
-fork end<br>
-fork again<br>
-|教师|<br>
--答卷<br>
--装订存档<br>
-fork end<br>
--期末流程结束<br>
+
+``` flow2
+@startuml
+|教务处|
+-安排考试
+-考试安排表
+|教师|
+-出卷
+fork
+:A、B试卷;
+fork again
+:打印审批表;
+|系主任|
+-审批签字
+-打印审批表：
+end fork
+|教务处|
+-打印试卷
+-试卷
+|学生|
+-参加考试
+-答卷
+|教师|
+-阅出成绩
+fork
+:成绩单;
+|教务处|
+ -[#blue]->
+-有不及格？
+-> 有;
+-安排补考
+fork
+-补考安排表
+fork end
+fork again
+|教师|
+-答卷
+-装订存档
+fork end
+-期末流程结束
 @enduml
-'''
+```
+
+
 **业务流程图如下：**
 
 ![flow1](flow1.jpg)
