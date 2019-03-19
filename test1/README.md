@@ -55,7 +55,8 @@ fork end
 
 **业务流程图如下：**
 
-![flow1](flow1.jpg)
+![flow1](https://github.com/lfd1109550635/is_analysis/blob/master/test1/实验一流程图.png)
+![flow1](https://github.com/lfd1109550635/is_analysis/blob/master/test1/实验1代码与流程图.png)
 
 **流程说明：**
 
