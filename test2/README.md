@@ -111,6 +111,6 @@ stop
 
 ![uc1_flow](https://github.com/lfd1109550635/is_analysis/blob/master/test2/实验二购入图书.png)
 
-###     3.3 “***”用例
+###     3.3 “还书”用例
 
-参见：表7.5
+![usecase](https://github.com/lfd1109550635/is_analysis/blob/master/test2/实验二还书.png)
