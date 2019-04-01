@@ -82,17 +82,34 @@ rectangle {
 **“购入图书”用例流程图源码如下：**
 ``` uc1_flow
 @startuml
+|图书管理员|
 start
-:Hello world;
-:This is on defined on
-several **lines**;
+-发布所需购书信息
+|采购员|
+-图书信息
+|图书经销商|
+-报价
+|采购员|
+-反馈信息并申请
+|图书管理员|
+-批准
+|采购员|
+-下单购买
+|图书经销商|
+-供货送货
+|图书管理员|
+-收货
+-付款
+|图书经销商|
+-收款
 stop
+
 @enduml
 ```
 
 **“购入图书”用例流程图源码如下：**
 
-![uc1_flow](usecase1_flow.jpg)
+![uc1_flow](https://github.com/lfd1109550635/is_analysis/blob/master/test2/实验二购入图书.png)
 
 ###     3.3 “***”用例
 
