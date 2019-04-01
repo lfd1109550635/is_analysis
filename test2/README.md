@@ -41,7 +41,7 @@ rectangle {
 
 参见图7.6
 
-![usecase](usecase.png)
+![usecase](https://github.com/lfd1109550635/is_analysis/blob/master/test2/实验二图1.png)
 
 ## 2. 参与者说明：
 
@@ -74,11 +74,10 @@ rectangle {
 
 ###     3.1 “借出图书”用例
 
-参见：表7.5
+![usecase](https://github.com/lfd1109550635/is_analysis/blob/master/test2/实验二图1.png)
 
 ###     3.2 “购入图书”用例
-
-参见：表7.5
+![usecase](https://github.com/lfd1109550635/is_analysis/blob/master/test2/实验二图1.png)
 
 **“购入图书”用例流程图源码如下：**
 ``` uc1_flow
