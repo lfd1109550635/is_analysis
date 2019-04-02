@@ -76,6 +76,33 @@ rectangle {
 
 ![usecase](https://github.com/lfd1109550635/is_analysis/blob/master/test2/实验二借出图书.png)
 
+**“购入图书”用例流程图源码如下：**
+``` uc1_flow
+@startuml
+|读者|
+start
+-申请借书
+|管理员|
+if(验证读者信息是否有误？) then(错误)
+stop
+else (正确)
+endif
+|读者|
+-查询书目
+-选择需借书目
+|管理员|
+if(检查是否超出可借数量？) then(超出)
+stop
+else(没有超出)
+-借出图书
+-修改图书库存
+|读者|
+-取走图书
+stop
+
+@enduml
+```
+
 
 ###     3.1 “借出图书”流程图
 ![usecase](https://github.com/lfd1109550635/is_analysis/blob/master/test2/信息7.png)
