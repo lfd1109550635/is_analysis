@@ -78,8 +78,7 @@ rectangle {
 
 
 ###     3.1 “借出图书”流程图
-
-![usecase]（https://github.com/lfd1109550635/is_analysis/blob/master/test2/信息7.png）
+![usecase](https://github.com/lfd1109550635/is_analysis/blob/master/test2/信息7.png)
 
 ###     3.2 “购入图书”用例
 
