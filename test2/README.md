@@ -76,7 +76,7 @@ rectangle {
 
 ![usecase](https://github.com/lfd1109550635/is_analysis/blob/master/test2/实验二借出图书.png)
 
-**“购入图书”用例流程图源码如下：**
+**“借出图书”用例流程图源码如下：**
 ``` uc1_flow
 @startuml
 |读者|
