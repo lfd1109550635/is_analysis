@@ -141,14 +141,15 @@ class 读者{
 说明文字***
 
 ## 2. 图书管理系统的对象图
-### 2.1 类user的对象图
+### 2.1 类***的对象图
 #### 源码如下：
 ``` class
 @startuml
-object user {
-name = "Dummy"
-id = 123
-}
+object 图书管理员
+
+图书管理员 : 职工号：1231561321653123
+图书管理员 : 姓名 = 撒旦金克拉就
+
 @enduml
 ``` 
 #### 对象图如下：
@@ -158,11 +159,201 @@ id = 123
 #### 源码如下：
 ``` class
 @startuml
-object user2 {
-name = "Dummy"
-id = 123
-}
+object 读者
+
+读者 : 身份证卡号 = 1231564321
+读者 : 姓名 = 啊实打实的
+读者 : 卡号 = 123156132
 @enduml
 ``` 
 #### 对象图如下：
 ![class](object1.png)
+
+类***的对象图
+#### 源码如下：
+``` class
+@startuml
+object 罚款细则
+罚款细则 :  罚款2000元
+@enduml
+``` 
+#### 对象图如下：
+![class](object1.png)
+
+类***的对象图
+#### 源码如下：
+``` class
+@startuml
+object 逾期记录
+逾期记录 : 书名=好难受
+逾期记录 : 编号=5641321
+逾期记录 : 时间=28小时
+@enduml
+``` 
+#### 对象图如下：
+![class](object1.png)
+
+
+类***的对象图
+#### 源码如下：
+``` class
+@startuml
+object 借书记录
+借书记录 : 书名=好麻烦
+借书记录 : 编号=52
+借书记录 : 时间=24小时
+
+@enduml
+``` 
+#### 对象图如下：
+![class](object1.png)
+
+
+类***的对象图
+#### 源码如下：
+``` class
+@startuml
+object 采购员
+
+采购员 : 职工号 = 1231561321653123
+采购员 : 姓名 = 撒旦金克拉就
+@enduml
+``` 
+#### 对象图如下：
+![class](object1.png)
+
+
+类***的对象图
+#### 源码如下：
+``` class
+@startuml
+object 订单
+
+订单 : 书名=无语了
+订单 : 数量 = 20
+订单 : 价格 = 300
+@enduml
+``` 
+#### 对象图如下：
+![class](object1.png)
+
+
+类***的对象图
+#### 源码如下：
+``` class
+@startuml
+object 经销商
+
+经销商 : 名称=我擦勒
+@enduml
+``` 
+#### 对象图如下：
+![class](object1.png)
+
+
+类***的对象图
+#### 源码如下：
+``` class
+@startuml
+object 新图书
+
+新图书 : 作者=嘿嘿
+新图书 : 出版社=社会社会社
+新图书 : 出版日期=9.12
+@enduml
+``` 
+#### 对象图如下：
+![class](object1.png)
+
+
+类***的对象图
+#### 源码如下：
+``` class
+@startuml
+object 预定记录
+
+预定记录 : 预定日期=1.2
+
+@enduml
+``` 
+#### 对象图如下：
+![class](object1.png)
+
+
+类***的对象图
+#### 源码如下：
+``` class
+@startuml
+object 图书馆书类品
+
+图书馆书类品 : 图书名称=撒旦很健康
+图书馆书类品 : 图书编号=425
+图书馆书类品 : 简介=好看得很
+图书馆书类品 : 馆藏数量=43
+图书馆书类品 : 可借数量=12
+
+@enduml
+``` 
+#### 对象图如下：
+![class](object1.png)
+
+
+类***的对象图
+#### 源码如下：
+``` class
+@startuml
+object 馆藏目录
+
+馆藏目录 : 书信息=撒旦很健康
+
+@enduml
+``` 
+#### 对象图如下：
+![class](object1.png)
+
+
+类***的对象图
+#### 源码如下：
+``` class
+@startuml
+object 资源项
+
+资源项 : 馆藏流水号=48545
+资源项 : 状态=已借出
+@enduml
+``` 
+#### 对象图如下：
+![class](object1.png)
+
+
+类***的对象图
+#### 源码如下：
+``` class
+@startuml
+object 图书品种
+
+图书品种 : 作者=撒旦
+图书品种 : 出版社=发达的
+图书品种 : 出版日期=8.14
+
+@enduml
+``` 
+#### 对象图如下：
+![class](object1.png)
+
+
+类***的对象图
+#### 源码如下：
+``` class
+@startuml
+object 分编员
+
+分编员 : 职工号=54694545667
+分编员 : 姓名= 撒大窟窿
+
+@enduml
+``` 
+#### 对象图如下：
+![class](object1.png)
+
+
