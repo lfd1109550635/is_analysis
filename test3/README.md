@@ -138,7 +138,9 @@ class 读者{
 ![class](https://github.com/lfd1109550635/is_analysis/blob/master/test3/实验三类图1.png)
 
 ### 1.3. 类图说明：
-说明文字***
+``` class
+图书g管理员
+``` 
 
 ## 2. 图书管理系统的对象图
 ### 2.1 类***的对象图
