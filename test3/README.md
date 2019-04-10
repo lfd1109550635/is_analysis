@@ -135,7 +135,7 @@ class 读者{
 
 参见图8.17
 
-![class](https://github.com/lfd1109550635/is_analysis/blob/master/test3/实验三类图.png)
+![class](https://github.com/lfd1109550635/is_analysis/blob/master/test3/实验三类图1.png)
 
 ### 1.3. 类图说明：
 说明文字***
