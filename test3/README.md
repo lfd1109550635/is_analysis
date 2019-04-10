@@ -153,7 +153,7 @@ object 图书管理员
 @enduml
 ``` 
 #### 对象图如下：
-![class](object1.png)
+![class](https://github.com/lfd1109550635/is_analysis/blob/master/test3/对象图1.png)
 
 ### 2.2 类***的对象图
 #### 源码如下：
@@ -167,7 +167,7 @@ object 读者
 @enduml
 ``` 
 #### 对象图如下：
-![class](object1.png)
+![class](https://github.com/lfd1109550635/is_analysis/blob/master/test3/对象图2.png)
 
 类***的对象图
 #### 源码如下：
@@ -178,7 +178,7 @@ object 罚款细则
 @enduml
 ``` 
 #### 对象图如下：
-![class](object1.png)
+![class](https://github.com/lfd1109550635/is_analysis/blob/master/test3/对象图3.png)
 
 类***的对象图
 #### 源码如下：
@@ -191,7 +191,7 @@ object 逾期记录
 @enduml
 ``` 
 #### 对象图如下：
-![class](object1.png)
+![class](https://github.com/lfd1109550635/is_analysis/blob/master/test3/对象图4.png)
 
 
 类***的对象图
@@ -206,7 +206,7 @@ object 借书记录
 @enduml
 ``` 
 #### 对象图如下：
-![class](object1.png)
+![class](https://github.com/lfd1109550635/is_analysis/blob/master/test3/对象图5.png)
 
 
 类***的对象图
@@ -220,7 +220,7 @@ object 采购员
 @enduml
 ``` 
 #### 对象图如下：
-![class](object1.png)
+![class](https://github.com/lfd1109550635/is_analysis/blob/master/test3/对象图6.png)
 
 
 类***的对象图
@@ -235,7 +235,7 @@ object 订单
 @enduml
 ``` 
 #### 对象图如下：
-![class](object1.png)
+![class](https://github.com/lfd1109550635/is_analysis/blob/master/test3/对象图7.png)
 
 
 类***的对象图
@@ -248,7 +248,7 @@ object 经销商
 @enduml
 ``` 
 #### 对象图如下：
-![class](object1.png)
+![class](https://github.com/lfd1109550635/is_analysis/blob/master/test3/对象图8.png)
 
 
 类***的对象图
@@ -263,7 +263,7 @@ object 新图书
 @enduml
 ``` 
 #### 对象图如下：
-![class](object1.png)
+![class](https://github.com/lfd1109550635/is_analysis/blob/master/test3/对象图9.png)
 
 
 类***的对象图
@@ -277,7 +277,7 @@ object 预定记录
 @enduml
 ``` 
 #### 对象图如下：
-![class](object1.png)
+![class](https://github.com/lfd1109550635/is_analysis/blob/master/test3/对象图10.png)
 
 
 类***的对象图
@@ -295,7 +295,7 @@ object 图书馆书类品
 @enduml
 ``` 
 #### 对象图如下：
-![class](object1.png)
+![class](https://github.com/lfd1109550635/is_analysis/blob/master/test3/对象图11.png)
 
 
 类***的对象图
@@ -309,7 +309,7 @@ object 馆藏目录
 @enduml
 ``` 
 #### 对象图如下：
-![class](object1.png)
+![class](https://github.com/lfd1109550635/is_analysis/blob/master/test3/对象图12.png)
 
 
 类***的对象图
@@ -323,7 +323,7 @@ object 资源项
 @enduml
 ``` 
 #### 对象图如下：
-![class](object1.png)
+![class](https://github.com/lfd1109550635/is_analysis/blob/master/test3/对象图13.png)
 
 
 类***的对象图
@@ -339,7 +339,7 @@ object 图书品种
 @enduml
 ``` 
 #### 对象图如下：
-![class](object1.png)
+![class](https://github.com/lfd1109550635/is_analysis/blob/master/test3/对象图14.png)
 
 
 类***的对象图
@@ -354,6 +354,6 @@ object 分编员
 @enduml
 ``` 
 #### 对象图如下：
-![class](object1.png)
+![class](https://github.com/lfd1109550635/is_analysis/blob/master/test3/对象图15.png)
 
 
