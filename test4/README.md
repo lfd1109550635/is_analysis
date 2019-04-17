@@ -52,7 +52,7 @@ deactivate 图书管理员
 ```
 
 ## 1.2. 借书用例顺序图
-![class](sequence1.png)
+![class](https://github.com/lfd1109550635/is_analysis/blob/master/test4/实验四.png)
 
 ## 1.3. 借书用例顺序图说明
 ABCDE....
@@ -107,7 +107,7 @@ end
 ```
 
 ## 2.2. 还书用例顺序图
-![class](sequence2.png)
+![class](https://github.com/lfd1109550635/is_analysis/blob/master/test4/实验归还图书.png)
 
 ## 2.3. 还书用例顺序图说明
 ABCDE...
@@ -163,7 +163,7 @@ end
 ```
 
 ## 3.2. 购书用例顺序图
-![class](sequence1.png)
+![class](https://github.com/lfd1109550635/is_analysis/blob/master/test4/实验四购书.png)
 
 ## 3.3. 购书用例顺序图说明
 ABCDE....
