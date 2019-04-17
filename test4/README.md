@@ -107,7 +107,7 @@ end
 ```
 
 ## 2.2. 还书用例顺序图
-![class](https://github.com/lfd1109550635/is_analysis/blob/master/test4/实验归还图书.png)
+![class](https://github.com/lfd1109550635/is_analysis/blob/master/test4/实验四归还图书.png)
 
 ## 2.3. 还书用例顺序图说明
 ABCDE...
