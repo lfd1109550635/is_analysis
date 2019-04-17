@@ -55,7 +55,8 @@ deactivate 图书管理员
 ![class](https://github.com/lfd1109550635/is_analysis/blob/master/test4/实验四.png)
 
 ## 1.3. 借书用例顺序图说明
-ABCDE....
+读者把卡给图书管理员，图书管理员查询读者信息并判断，图书管理员获取资源项信息，并查询书类品，创建借书记录，图书管理员去除图书给读者 ，图书管理员修改资料
+
 
 ***
 
@@ -110,7 +111,7 @@ end
 ![class](https://github.com/lfd1109550635/is_analysis/blob/master/test4/实验四归还图书.png)
 
 ## 2.3. 还书用例顺序图说明
-ABCDE...
+读者把卡给图书管理员 图书管理员读取读者信息并调取资源信息中借书记录 读取馆藏书类品 书品种 ，图书管理员将读者所带书还回并修改资料。
 ***
 
 ## 3. 购书用例
@@ -166,6 +167,6 @@ end
 ![class](https://github.com/lfd1109550635/is_analysis/blob/master/test4/实验四购书.png)
 
 ## 3.3. 购书用例顺序图说明
-ABCDE....
+图书管理员向采购员授权与经销商沟通并下订单，经销商供货，图书管理员付款，经销商收款
 
 ***
