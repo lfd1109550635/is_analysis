@@ -38,7 +38,7 @@
 |password|varchar2(100)| |是|||密码|
 ## 2. 界面设计
 ## 2.1. 主界面设计
-![pic1](https://github.com/wangmingran9527/is_analysis/blob/master/test5/%E7%95%8C%E9%9D%A2.PNG)
+![pic1](https://github.com/lfd1109550635/is_analysis/blob/master/test5/借书界面.png)
 - 用例图参见：借书用例
 - 类图参见：借书类，读者类
 - 顺序图参见：借书顺序图
