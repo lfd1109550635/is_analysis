@@ -19,7 +19,7 @@
 - 系统自动计算每个学生的所有实验的平均分。
     
 ## 2. 系统总体结构
-![](https://github.com/lfd1109550635/is_analysis/blob/master/test6/系统总体结构图.png)
+![](https://github.com/lfd1109550635/is_analysis/blob/master/test6/系统总体结构.png)
 
 界面设计参见：https://zwdbox.github.io/is_analysis/test6/ui/index.html
     
