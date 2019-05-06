@@ -22,7 +22,7 @@
 ![](https://github.com/lfd1109550635/is_analysis/blob/master/test6/系统总体结构1.png)
 
     
-## 3. 用例图设计 [源码](https://github.com/lfd1109550635/is_analysis/blob/master/test6/scr/UseCase1.puml)
+## 3. 用例图设计 [源码](https://github.com/lfd1109550635/is_analysis/blob/master/test6/src/UseCase1.puml)
 ![](https://github.com/lfd1109550635/is_analysis/blob/master/test6/UseCase1.png)
 
 ## 4. 类图设计 [源码](https://github.com/lfd1109550635/is_analysis/blob/master/test6/scr/class.puml)
