@@ -26,7 +26,7 @@
 ![](https://github.com/lfd1109550635/is_analysis/blob/master/test6/UseCase1.png)
 
 ## 4. 类图设计 [源码](src/class.puml)
-![](https://github.com/lfd1109550635/is_analysis/blob/master/test6/class.png)
+![](https://github.com/lfd1109550635/is_analysis/blob/master/test6/scr/class.puml)
 
 ## 5. 数据库设计
 - ### [参见数据库设计](./数据库设计.md)
